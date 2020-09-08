@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/online-course-react/static/css/main.4ddfbea1.chunk.css",
+    "main.js": "/online-course-react/static/js/main.161f41a6.chunk.js",
+    "main.js.map": "/online-course-react/static/js/main.161f41a6.chunk.js.map",
+    "runtime-main.js": "/online-course-react/static/js/runtime-main.d22a63cf.js",
+    "runtime-main.js.map": "/online-course-react/static/js/runtime-main.d22a63cf.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/online-course-react/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5f155fb3.chunk.js": "/online-course-react/static/js/2.5f155fb3.chunk.js",
+    "static/js/2.5f155fb3.chunk.js.map": "/online-course-react/static/js/2.5f155fb3.chunk.js.map",
+    "index.html": "/online-course-react/index.html",
+    "precache-manifest.6756f2f5b5964199fc5d73fbd6c3fa81.js": "/online-course-react/precache-manifest.6756f2f5b5964199fc5d73fbd6c3fa81.js",
+    "service-worker.js": "/online-course-react/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/online-course-react/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4ddfbea1.chunk.css.map": "/online-course-react/static/css/main.4ddfbea1.chunk.css.map",
+    "static/js/2.5f155fb3.chunk.js.LICENSE.txt": "/online-course-react/static/js/2.5f155fb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d22a63cf.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5f155fb3.chunk.js",
+    "static/css/main.4ddfbea1.chunk.css",
+    "static/js/main.161f41a6.chunk.js"
+  ]
+}
