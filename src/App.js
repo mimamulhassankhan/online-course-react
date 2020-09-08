@@ -1,18 +1,19 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Container, Row} from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
 import Header from './Components/Header/Header';
+import CourseContainer from './Components/CourseContainer/CourseContainer';
 
 
 function App() {
   return (
-    <Container fluid>
+    <div>
       <Header/>
-      <Row >
-        <Header/>
-      </Row>
-    </Container>
+      <Container className="entryPoint" fluid>
+        <CourseContainer/>
+      </Container>
+    </div>
   );
 }
 
